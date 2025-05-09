@@ -7,7 +7,9 @@ To increase typing speed, we have implemented a "divide and conquer" method for 
 ### Keyboard Design
 A preliminary design of the keyboard is shown below:
 
-![Keyboard Design](image_link_here)
+![Keyboard Design 1](keyboard_design.png)
+![Keyboard Design 2](keyboard_design2.png)
+
 
 ### Video Demonstration
 Watch a demo of the project here: [YouTube Video](https://www.youtube.com/watch?v=rVeHGrMqKPg&t=226s)
